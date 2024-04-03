@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="text_anime">Anime</string>
+    <string name="text_quote">Quote</string>
+    <string name="text_character">Character</string>
+    <string name="text_empty">Quotes is Empty</string>
+</resources>
